@@ -1,0 +1,29 @@
+.input-box
+{
+  outline: none;
+  border:none;
+  background-color: aliceblue;
+  text-align: right;
+  flex-direction: column;
+  width: 300px;
+  background-color: black;
+  height: 70px;
+  color: white;
+  font-size: 40px;
+}
+.in
+{
+  margin-top: 100px;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+
+ 
+}
+.btn
+{
+  margin: 2px;
+  width: 120px;
+}
